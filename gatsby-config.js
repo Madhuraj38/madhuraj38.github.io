@@ -5,7 +5,7 @@ module.exports = {
     title: 'Madhuraj Kunta',
     description:
       'Madhuraj Kunta is a software engineer who specializes in creating innovative solutions for real world problems.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://madhuraj.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
