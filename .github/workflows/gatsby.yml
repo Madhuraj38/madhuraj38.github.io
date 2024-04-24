@@ -7,7 +7,7 @@ name: Deploy Gatsby site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: ["dev"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -54,11 +54,11 @@ jobs:
       - name: Install NodeJS
         uses: actions/setup-node@v3
         with:
-          node-version: '14.16.0'
+          node-version: "14.16.0"
           cache: 'yarn'
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
         with:
           # Automatically inject pathPrefix in your Gatsby configuration file.
           #
