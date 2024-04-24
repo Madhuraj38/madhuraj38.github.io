@@ -1,13 +1,16 @@
 ---
 date: '1'
-title: 'Live Scan'
-cover: './livescan.png'
-github: 'https://github.com/Madhuraj38/live-scan'
+title: 'Your Guide'
+github: 'https://github.com/Madhuraj38/CodathonUi'
+cover: './guide.png'
 tech:
-  - VS Code
   - React
   - Material UI
-  - Git
+  - NodeJs
+  - Postman
+  - Firebase
+  - Heroku
+
 ---
 
-Created a user-friendly static website for live scan fingerprinting services, incorporating intuitive navigation and clear information presentation, resulting in a 25% reduction in customer inquiries and a 20% increase in online appointment bookings.
+Constructed a robust web application empowering users to effortlessly apply for job opportunities, actively participate in competitive contests, and knowledge enhancement through a vast library of 500 e-books and 1000 tutorials.

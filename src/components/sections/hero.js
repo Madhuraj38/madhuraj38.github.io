@@ -61,8 +61,8 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Madhuraj Kunta.</h2>;
-  const three = <h6 className="big-heading">Creating Innovative Solutions for Tomorrow's Challenges</h6>;
+  const two = <h2 className="big-heading">Madhuraj Kunta</h2>;
+  const three = <h6 className="big-heading">Coding with Purpose, Creating with Passion</h6>;
   const four = (
     <>
       <p>

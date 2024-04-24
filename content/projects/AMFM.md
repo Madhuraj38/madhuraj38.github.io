@@ -1,16 +1,16 @@
 ---
 date: '2022'
-title: 'Your Guide'
-github: 'https://github.com/Madhuraj38/CodathonUi'
+title: 'Fantasy League'
+# cover: './fantasy.png'
+github: 'https://github.com/Madhuraj38/Fantasy-League'
 external: ''
 tech:
-  - React
-  - Material UI
-  - NodeJs
-  - Postman
-  - Firebase
-  - Heroku
+  - HTML
+  - CSS
+  - Javascript
+  - PHP
+  - MySQL
 showInProjects: true
 ---
 
-Constructed a robust web application empowering users to effortlessly apply for job opportunities, actively participate in competitive contests, and knowledge enhancement through a vast library of 500 e-books and 1000 tutorials.
+ Designed a web application that delivers 100% efficient real-time cricket updates, player statistics, team rankings, and tutorials, ensuring fast and reliable data retrieval from Rapid cricket API.

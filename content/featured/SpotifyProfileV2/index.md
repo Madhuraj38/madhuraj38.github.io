@@ -1,14 +1,13 @@
 ---
-date: '3'
-title: 'Fantasy League'
-cover: './fantasy.png'
-github: 'https://github.com/Madhuraj38/Fantasy-League'
+date: '2'
+title: 'TEDS-A Data Analysis and Processing'
+github: 'https://github.com/Madhuraj38/'
+cover: './hadoop.png'
 tech:
-  - HTML
-  - CSS
-  - Javascript
-  - PHP
-  - MySQL
+  - Hadoop
+  - Apache Spark
+  - Java
+  - Python
 ---
 
- Designed a web application that delivers 100% efficient real-time cricket updates, player statistics, team rankings, and tutorials, ensuring fast and reliable data retrieval from Rapid cricket API.
+Implemented Hadoop and Spark programs to analyze and process the Treatment Episode Data Set (TEDS-A) over 20 years of admission data, utilizing MapReduce and Spark frameworks to extract insights on substance use disorder treatment admissions, demonstrating proficiency in big data processing and analysis techniques.
