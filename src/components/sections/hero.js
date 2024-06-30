@@ -8,8 +8,8 @@ const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
   flex-direction: column;
   align-items: flex-start;
-  min-height: 100vh;
-  height: 100vh;
+  min-height: 60vh;
+  // height: 100vh;
   padding: 0;
 
   @media (max-height: 700px) and (min-width: 700px), (max-width: 360px) {
@@ -33,7 +33,7 @@ const StyledHeroSection = styled.section`
     margin-top: 5px;
     color: var(--slate);
     line-height: 0.9;
-    font-size: 4rem;
+    // font-size: 4rem;
   }
 
   p {
@@ -70,7 +70,7 @@ const Hero = () => {
       at{' '}
         <a href="https://www.stonybrook.edu/" target="_blank" rel="noreferrer">
           Stony Brook University
-        </a>, coupled with 1.7 years of experience as a software engineer. 
+        </a>, coupled with 2 years of experience as a software engineer. 
       With a passion for solving complex problems, I thrive on creating meaningful solutions that address real-world challenges.
       </p>
     </>

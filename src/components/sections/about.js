@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C', 'C++', 'C#', 'Java', 'Python', 'HTML&CSS', 'JavaScript', 'SQL', 'XML', 'Bootstrap', 'PHP', 'React.js', 'Node.js', 'MySQL', 'MS SQL', 'Hadoop', 'Spark', 'NumPy', 'OpenCV', 'Matplotlib', 'PyTorch','Flask'];
+  const skills = ['C#/.Net', 'React.js', 'C', 'C++', 'Java', 'Python', 'HTML&CSS', 'JavaScript', 'SQL', 'XML', 'Bootstrap', 'PHP', 'Node.js', 'MySQL/MS SQL', 'Hadoop', 'Spark','Flask','NLP/LLM','Salesforce','Apex'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,17 +135,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            I am a Graduate Teaching and Research Assistant at Stony Brook University, pursuing my Master of Science in Computer Science. 
+            {/* I am a Graduate Teaching and Research Assistant at Stony Brook University, pursuing my Master of Science in Computer Science. 
             I have a Bachelor of Engineering in Computer Science from Vasavi College of Engineering, where I graduated in 2022. 
             My core competencies include data structures, algorithms, web development, and software engineering.
-            <br/>
-            <br/>
             Before joining Stony Brook University, I worked as a Software Engineer at <a href="https://www.ncr.com/">NCR Corporation</a>{' '}for one and half year, 
             where I developed and enhanced a kiosk application for cinema theatres. I used C#(.Net), React.js, MS SQL and XML. 
             I also completed online courses and received certifications in Python, C++, and algorithm design and analysis. 
             I am passionate about learning new technologies and solving real-world problems with innovative solutions. 
             I value teamwork, collaboration, and continuous improvement, and I strive to bring diverse perspectives and experiences to the projects I work on.
-            Currently I am looking for summer 2024 internship opportunities - feel free to reach out to me.
+            Currently I am looking for summer 2024 internship opportunities - feel free to reach out to me. */}
+            I am Madhuraj Kunta, a passionate and driven software engineer currently pursuing my Master's in Computer Science at Stony Brook University, 
+            where I maintain a CGPA of 3.95/4.0. I have a strong foundation in computer science from my Bachelor's degree at Vasavi College of Engineering. 
+            My professional experience includes developing full-stack applications at NCR Corporation and enhancing Salesforce functionalities as an intern at MTX Group Inc. 
+            I am skilled in various programming languages and frameworks such as C++, C#/.Net, Python, React.js, and Salesforce, with a proven track record of optimizing system 
+            performance and improving user experiences. I am eager to leverage my skills and knowledge in new challenges and projects.
             </p>
 
             {/* <p>

@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'TEDS-A Data Analysis and Processing'
-github: 'https://github.com/Madhuraj38/'
+github: 'https://github.com/Madhuraj38/TEDS-A-Data-Analysis-and-Processing'
 cover: './hadoop.png'
 tech:
   - Hadoop

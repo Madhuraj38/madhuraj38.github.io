@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-      I am currently looking for internship opportunities as a Software Development Engineer (SDE) for the summer of 2024. 
+      I am currently looking for full time and co-op opportunities. 
       I welcome any connections or opportunities in this field.
       </p>
 

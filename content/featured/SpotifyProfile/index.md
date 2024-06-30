@@ -1,14 +1,16 @@
 ---
 date: '3'
-title: ' Object Tracking Using Siamese Networks'
-cover: './detect.png'
-github: 'https://github.com/Madhuraj38/'
+title: ' Topic Modeling and Sentiment Analysis in r/AskHistorians'
+cover: './NLP.png'
+github: 'https://github.com/Madhuraj38/Topic-Modeling-and-Sentiment-Analysis-in-r-AskHistorians'
 tech:
+  - NLP
+  - LDA
+  - BERTopic
   - Python
-  - Pytorch
-  - openCV
-  - numpy
-  - matplotlib
+  - Nltk
+  - Pandas
 ---
 
-Implemented a object detection and tracking algorithm for video sequences, integrating visual and infrared spectrum information through feature fusion techniques, with a success rate exceeding 80% in tracking accuracy.
+Analyzed 200,000 Reddit posts from r/AskHistorians using advanced NLP techniques such as LDA and BERTopic, improving
+topic coherence by 47% and revealing emotional trends in discussions, enhancing historical discourse understanding.
