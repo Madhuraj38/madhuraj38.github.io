@@ -143,11 +143,11 @@ const StyledLinks = styled.div`
     }
   }
 
-  .resume-button {
-    ${({ theme }) => theme.mixins.smallButton};
-    margin-left: 15px;
-    font-size: var(--fz-xs);
-  }
+  // .resume-button {
+  //   ${({ theme }) => theme.mixins.smallButton};
+  //   margin-left: 15px;
+  //   font-size: var(--fz-xs);
+  // }
 `;
 
 const Nav = ({ isHome }) => {
@@ -227,7 +227,7 @@ const Nav = ({ isHome }) => {
                     </li>
                   ))}
               </ol>
-              <div>{ResumeLink}</div>
+              {/* <div>{ResumeLink}</div> */}
             </StyledLinks>
 
             <Menu />

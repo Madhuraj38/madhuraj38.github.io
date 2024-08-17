@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/kunta-madhuraj-282878193/',
+      url: 'https://www.linkedin.com/in/madhuraj-kunta/',
     },
     // {
     //   name: 'Codepen',
