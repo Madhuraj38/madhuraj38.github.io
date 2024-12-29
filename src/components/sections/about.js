@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C#/.Net', 'React.js', 'C', 'C++', 'Java', 'Python', 'HTML&CSS', 'JavaScript', 'SQL','Salesforce','Apex', 'LWC', 'SOQL', 'SLDS', 'XML', 'Bootstrap', 'PHP', 'Node.js', 'MySQL', 'MS SQL', 'Hadoop', 'Spark','Flask','NLP/LLM'];
+  const skills = ['C#/.Net', 'React.js', 'C', 'C++', 'Java', 'Python', 'Go lang', 'Distributed Systems', 'HTML&CSS', 'JavaScript', 'SQL','Salesforce','Apex', 'LWC', 'SOQL', 'SLDS', 'XML', 'Bootstrap', 'PHP', 'Node.js', 'MySQL', 'MS SQL', 'Hadoop', 'Spark','Flask','NLP/LLM'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -145,9 +145,9 @@ const About = () => {
             I value teamwork, collaboration, and continuous improvement, and I strive to bring diverse perspectives and experiences to the projects I work on.
             Currently I am looking for summer 2024 internship opportunities - feel free to reach out to me. */}
             I am Madhuraj Kunta, a passionate and driven software engineer currently pursuing my Master's in Computer Science at Stony Brook University, 
-            where I maintain a CGPA of 3.95/4.0. I have a strong foundation in computer science from my Bachelor's degree at Vasavi College of Engineering. 
-            My professional experience includes developing full-stack applications at NCR Corporation and enhancing Salesforce functionalities as an intern at MTX Group Inc. 
-            I am skilled in various programming languages and frameworks such as C++, C#/.Net, Python, React.js, and Salesforce, with a proven track record of optimizing system 
+            where I maintain a CGPA of 3.96/4.0. I have a strong foundation in computer science from my Bachelor's degree at Vasavi College of Engineering. 
+            My professional experience includes developing full-stack applications at NCR Corporation, enhancing Salesforce functionalities as an intern at MTX Group Inc and developing distributed systems projects. 
+            I am skilled in various programming languages and frameworks such as C++, C#/.Net, Go lang, Python, React.js, and Salesforce, with a proven track record of optimizing system 
             performance and improving user experiences. I am eager to leverage my skills and knowledge in new challenges and projects.
             </p>
 
